@@ -1,0 +1,6 @@
+{
+  "name": "IFPR LogicQuest: Sobrevivendo ao 1º Ano",
+  "description": "Aplicação educativa e gamificada de Algoritmos e Lógica de Programação do 1º ano Técnico em Informática do IFPR, com Arena Booleana e Aventura Interativa no Campus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
